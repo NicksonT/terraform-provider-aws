@@ -96,6 +96,8 @@ github.com/aws/aws-sdk-go-v2/service/ec2 v1.133.0 h1:g4qMdFWe9UVMI6PKytU8BBfW7v8
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.133.0/go.mod h1:NOPsghjhZRkrVvKIxrDrEL7zhVIFYJsHqdeol50Eodk=
 github.com/aws/aws-sdk-go-v2/service/eks v1.33.0 h1:6a7enmqn5ehMT6WBCnc/Bq4UAEtiZ1/3OXDVr09NWUM=
 github.com/aws/aws-sdk-go-v2/service/eks v1.33.0/go.mod h1:Caw+bBvj+bjrHNuqmS9ZqSZow77sgF5TQGZy3zY0egA=
+github.com/aws/aws-sdk-go-v2/service/emr v1.33.0 h1:Y4jqWeQwTSvUtlmvp1uJVkQwBQ13KSmjfOq4DnvxiFo=
+github.com/aws/aws-sdk-go-v2/service/emr v1.33.0/go.mod h1:7NLccADhrUcRpLnjaR617WlhdOZzeUZlpYztW9jiuo0=
 github.com/aws/aws-sdk-go-v2/service/emrserverless v1.13.1 h1:HhYBETZd3aNmtrlMbJxRf9DlGRPKrOFI0lnvzooWGMA=
 github.com/aws/aws-sdk-go-v2/service/emrserverless v1.13.1/go.mod h1:GI2hWXh+a2U1N4a4ODnXQ3aON1Cjt2jijCa9H+3S6kc=
 github.com/aws/aws-sdk-go-v2/service/finspace v1.16.1 h1:g1qJUOmCGs4UH5XyBKDr+jgz3bzFv4WBduMytd/2sOs=
@@ -216,8 +218,8 @@ github.com/aws/aws-sdk-go-v2/service/workspaces v1.33.1 h1:9pj1eIIwWJqGrITnkH6gg
 github.com/aws/aws-sdk-go-v2/service/workspaces v1.33.1/go.mod h1:WpCZtgHZRiYfv0jN6WsgKYvpsGp5H/QxUF+VYnTwmcE=
 github.com/aws/aws-sdk-go-v2/service/xray v1.22.1 h1:EfeYTIUR/HgFijILpqvRh3Xgky0qOW998lOOmMSPqRY=
 github.com/aws/aws-sdk-go-v2/service/xray v1.22.1/go.mod h1:4+g9QRvp2RZko4VZF62ICz59N3t1yUPllfzMy6yg8yg=
-github.com/aws/smithy-go v1.16.0 h1:gJZEH/Fqh+RsvlJ1Zt4tVAtV6bKkp3cC+R6FCZMNzik=
-github.com/aws/smithy-go v1.16.0/go.mod h1:NukqUGpCZIILqqiV0NIjeFh24kd/FAa4beRb6nbIUPE=
+github.com/aws/smithy-go v1.17.0 h1:wWJD7LX6PBV6etBUwO0zElG0nWN9rUhp0WdYeHSHAaI=
+github.com/aws/smithy-go v1.17.0/go.mod h1:NukqUGpCZIILqqiV0NIjeFh24kd/FAa4beRb6nbIUPE=
 github.com/beevik/etree v1.2.0 h1:l7WETslUG/T+xOPs47dtd6jov2Ii/8/OjCldk5fYfQw=
 github.com/beevik/etree v1.2.0/go.mod h1:aiPf89g/1k3AShMVAzriilpcE4R/Vuor90y83zVZWFc=
 github.com/bgentry/speakeasy v0.1.0 h1:ByYyxL9InA1OWqxJqqp2A5pYHUrCiAL6K3J+LKSsQkY=
